@@ -4,5 +4,6 @@ Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCa
 Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(52,72): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?)
 Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(62,73): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?)
 Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(72,77): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?)
+Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Implementations/BlogCategoryService.cs(14,40): error CS0535: 'BlogCategoryService' does not implement interface member 'IBlogCategoryService.GetArchivedBlogCategory(ListBlogCategoryRequestDto)'
 Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Implementations/BlogCategoryService.cs(8,19): error CS0234: The type or namespace name 'ControllersExceptions' does not exist in the namespace 'ProjectName' (are you missing an assembly reference?)
-Error: 7 Error(s)
+Error: 8 Error(s)

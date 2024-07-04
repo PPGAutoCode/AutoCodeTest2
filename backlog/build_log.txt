@@ -9,6 +9,7 @@ MSBuild version 17.6.11+5eb99e6e9 for .NET
 /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(52,72): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?) [/Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/ProjectName.csproj]
 /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(62,73): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?) [/Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/ProjectName.csproj]
 /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(72,77): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?) [/Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/ProjectName.csproj]
+/Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Implementations/BlogCategoryService.cs(14,40): error CS0535: 'BlogCategoryService' does not implement interface member 'IBlogCategoryService.GetArchivedBlogCategory(ListBlogCategoryRequestDto)' [/Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/ProjectName.csproj]
 
 Build FAILED.
 
@@ -20,7 +21,8 @@ Build FAILED.
 /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(52,72): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?) [/Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/ProjectName.csproj]
 /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(62,73): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?) [/Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/ProjectName.csproj]
 /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(72,77): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?) [/Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/ProjectName.csproj]
+/Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Implementations/BlogCategoryService.cs(14,40): error CS0535: 'BlogCategoryService' does not implement interface member 'IBlogCategoryService.GetArchivedBlogCategory(ListBlogCategoryRequestDto)' [/Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/ProjectName.csproj]
     1 Warning(s)
-    7 Error(s)
+    8 Error(s)
 
-Time Elapsed 00:00:00.61
+Time Elapsed 00:00:00.58
