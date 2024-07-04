@@ -67,5 +67,15 @@ namespace ProjectName.Controllers
                 return Ok(new Response<List<BlogCategory>> { Payload = result });
             });
         }
+
+        [HttpPost("archive")]
+        public async Task<IActionResult> GetArchivedBlogCategory([FromBody] Request<ListBlogCategoryRequestDto> request)
+        {
+            return await SafeExecutor.ExecuteAsync(async () =>
+            {
+                var result = await _blogCategoryService.GetArchivedBlogCategory(request.Payload);
+                return Ok(new Response<List<BlogCategory>> { Payload = result });
+            });
+        }
     }
 }
