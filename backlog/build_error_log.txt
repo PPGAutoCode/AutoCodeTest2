@@ -1,7 +1,5 @@
-Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(22,72): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?)
-Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(32,69): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?)
-Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(42,72): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?)
-Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(52,72): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?)
-Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Controllers/BlogCategoryController.cs(62,73): error CS0246: The type or namespace name 'Request<>' could not be found (are you missing a using directive or an assembly reference?)
-Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Implementations/BlogCategoryService.cs(8,19): error CS0234: The type or namespace name 'ControllersExceptions' does not exist in the namespace 'ProjectName' (are you missing an assembly reference?)
-Error: 6 Error(s)
+Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Implementations/BlogCategoryService.cs(167,9): error CS0106: The modifier 'public' is not valid for this item
+Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Implementations/BlogCategoryService.cs(167,9): error CS8803: Top-level statements must precede namespace and type declarations.
+Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Implementations/BlogCategoryService.cs(182,5): error CS1022: Type or namespace definition, or end-of-file expected
+Error: /Users/nkostop/Sites/NBG/AutoCode/tempcode/ProjectName/Implementations/BlogCategoryService.cs(183,1): error CS1022: Type or namespace definition, or end-of-file expected
+Error: 4 Error(s)
